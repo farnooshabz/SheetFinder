@@ -1,0 +1,23 @@
+{
+  "name": "sheetfinder",
+  "version": "1.0.0",
+  "description": "you can find your favorite music sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farnooshabz/SheetFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farnooshabz/SheetFinder/issues"
+  },
+  "homepage": "https://github.com/farnooshabz/SheetFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
